@@ -1,6 +1,8 @@
 # dependencies
 expenses_react/node_modules
 expenses_react/.env
+expenses_express/node_modules
+expenses_express/.env
 # production
 expenses_react/build
 expenses_react/.vscode
